@@ -1,0 +1,26 @@
+{
+  "name": "cards",
+  "version": "1.0.0",
+  "description": "Multiplayer card game system",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brian-Koscielniak/cards.git"
+  },
+  "keywords": [
+    "card",
+    "cards",
+    "game",
+    "node.js",
+    "sockets"
+  ],
+  "author": "Brian Koscielniak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Brian-Koscielniak/cards/issues"
+  },
+  "homepage": "https://github.com/Brian-Koscielniak/cards#readme"
+}
